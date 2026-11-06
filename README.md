@@ -11,4 +11,4 @@ Testing various workflow triggers, job dependencies, and automation patterns bef
 - Branch protection rules
 - Automated PR workflows
 - Merge strategies
-- - Event-driven workflows
+- Event-driven workflows
